@@ -5,14 +5,10 @@
 </p>
 
 ---
-
-## 👋 About Me
-
-- 🧠 Systems Design Engineering @ University of Waterloo  
-- 🛠 I build things that blend **code, design, and impact**  
-- 💡 Obsessed with **healthtech, hardware hacks, and product design**  
-- 💬 Ask me about Python, Flask, C++, or signal processing  
-- 🎮 Catch me on breaks playing Valorant, League, or Roblox  
+Hey! I'm Ian and I like to build things like
+- a solar car chassis and its internal mechanisms
+- a low-cost accurate sprint timing system
+- a posture-regulating robot
 
 ---
 
@@ -20,5 +16,5 @@
 
 ```bash
 💻 Languages:      Python | C++ | JavaScript | HTML/CSS | MATLAB  
-⚙️ Frameworks:     Flask | Node.js | PlatformIO | Bootstrap  
+⚙️ Frameworks:     Flask | Next.js | PlatformIO | Bootstrap  
 🧰 Tools:          Git | MySQL | Figma | VSCode | Arduino | ESP32  
