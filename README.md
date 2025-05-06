@@ -5,15 +5,16 @@
 </p>
 
 ---
-Hey! I'm Ian and I like to build things like
+Hey! I'm Ian and I like to build things like...
 - a solar car chassis and its internal mechanisms
 - a low-cost accurate sprint timing system
 - a posture-regulating robot
 
+...check out my Github to see more!
+
 ---
 
 ## ⚙️ Tech Stack
-
 ```bash
 💻 Languages:      Python | C++ | JavaScript | HTML/CSS | MATLAB  
 ⚙️ Frameworks:     Flask | Next.js | PlatformIO | Bootstrap  
