@@ -18,4 +18,4 @@ Hey! I'm Ian and I like to build things like...
 ```bash
 💻 Languages:      Python | C++ | JavaScript | HTML/CSS | MATLAB  
 ⚙️ Frameworks:     Flask | Next.js | PlatformIO | Bootstrap  
-🧰 Tools:          Git | MySQL | Figma | VSCode | Arduino | ESP32  
+🧰 Tools:          VSCode | Arduino | ESP32 | MySQL | Figma 
