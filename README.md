@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">🚀 Ian Xiong | Engineer. Builder. Dreamer.</h1>
 
-<!--
-**xiongian/xiongian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome!;SYDE @ UWaterloo; Structures @ Midnight Sun Solar" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+- 🧠 Systems Design Engineering @ University of Waterloo  
+- 🛠 I build things that blend **code, design, and impact**  
+- 💡 Obsessed with **healthtech, hardware hacks, and product design**  
+- 💬 Ask me about Python, Flask, C++, or signal processing  
+- 🎮 Catch me on breaks playing Valorant, League, or Roblox  
+
+---
+
+## ⚙️ Tech Stack
+
+```bash
+💻 Languages:      Python | C++ | JavaScript | HTML/CSS | MATLAB  
+⚙️ Frameworks:     Flask | Node.js | PlatformIO | Bootstrap  
+🧰 Tools:          Git | MySQL | Figma | VSCode | Arduino | ESP32  
